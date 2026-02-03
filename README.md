@@ -24,9 +24,9 @@ Para instalar as dependências, utilize o comando abaixo:
 ## 📖 Documentação 
 
 A documentacão detalhada de cada arquivo pode ser encontrada abaixo:
-* 👥 [**Agentes**](docs/agentes.md)
-* ⚙️ [**Modelo**](docs/modelo.md)
-* 🧬 [**Calibração**](docs/calibracao.md)
+* 👥 [**Agentes**](eclesiasim/docs/agentes.md)
+* ⚙️ [**Modelo**](eclesiasim/docs/modelo.md)
+* 🧬 [**Calibração**](eclesiasim/docs/calibracao.md)
 
 ## 💻 Como Executar
 Para executar uma bateria de testes e calibração, rode o comando:
